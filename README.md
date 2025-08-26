@@ -29,4 +29,4 @@ Para rodar este jogo, certifique-se de que você tem o Java Development Kit (JDK
 Siga as instruções na tela e boa sorte!                                                                                                                                                    
                                                                                                                                                                                            
 ✒️ Autor                                                                                                                                                                                   
-    • Matheus Matos - 
+    • Matheus Matos - https://github.com/matheus-souza-matos
